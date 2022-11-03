@@ -1,0 +1,1 @@
+conf (str): Path where to save the configuration file. May contain ~ for user's home. channel (Optional[bool]): Configure a channel. group (Optional[bool]): Configure a group. fm_integration (Optional[bool]): Setup file manager integration.

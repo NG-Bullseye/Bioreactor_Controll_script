@@ -163,7 +163,7 @@ YLoad = []
 XFlood = []
 YFlood = []
 
-def getExperiments(amountOfPicuturesPerRegime = 100):
+def getExperiments(amountOfPicuturesPerRegime = 300):
     picturesTaken = 0
 
 
